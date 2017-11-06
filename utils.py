@@ -15,7 +15,6 @@ def print_delimeter():
 
 def run_vm(virtual_machine):
     print("test started...\n")
-
     for i in range(num_cases):
         test_file = str(i) + ".py"
         print("Run test {}".format(test_file))
