@@ -1,0 +1,22 @@
+a = True
+b = False
+c = False
+print(a == b)
+print(a == c)
+c = 10
+d = 20
+b = 20
+print(c < b)
+print(c <= b)
+print(c > b)
+print(c >= b)
+print(c != b)
+print(c == b)
+print(d < b)
+print(d <= b)
+print(d > b)
+print(d >= b)
+print(d != b)
+print(d == b)
+print(a is b)
+print(a is not b)
